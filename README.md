@@ -16,7 +16,7 @@ Ce dépôt est organisé comme suit :
 
 ## Exemple projets
 
-### Héritage & Principe d'Indirection
+### Héritage & Principe Ouvert/Fermé
 
 ![OOP Inheritance & Indirection Principle](./Intro-OOP-Page-6.png)
 
